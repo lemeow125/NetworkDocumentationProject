@@ -4,6 +4,9 @@ Quantum Synergy Solutions is a visionary IT company focused on software developm
 
 The project outlineds the IT procedures and standards necessary for operation QS.
 
+- [**Network Diagram**](diagram.drawio.png)
+- [**Inventory**](INVENTORY.MD)
+
 ## Contributing
 
 When contributing, please follow the design theme of the "Network" section of shapes in drawio and refrain from adding icons from other sources to maintain overall diagram consistency.
