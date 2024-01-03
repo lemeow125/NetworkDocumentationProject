@@ -12,7 +12,6 @@
 
 - **PC** - 13
 - **Switches/Routers** - 4
-- **Wireless Devices** - 0
 - **CCTV** - 2
 
 # QA & Testing | Floor 3
