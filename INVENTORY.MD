@@ -15,3 +15,10 @@
 
 # QA & Testing | Floor 3
 - **PC** - 8
+- **Switches/Routers** - 2
+
+# Executive Suite | Floor 4
+- **PC** - 1
+- **Wireless Devices** - 1
+- **Switches/Routers** - 2
+
