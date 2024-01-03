@@ -5,6 +5,7 @@
 - **PC** - 3
 - **Switches/Routers** - 3
 - **Wireless Devices** - 1
+- **CCTV** - 3
 
 # Design & Development | Floor 2
 
