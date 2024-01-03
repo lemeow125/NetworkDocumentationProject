@@ -7,6 +7,10 @@ The project outlineds the IT procedures and standards necessary for operation QS
 - [**Network Diagram**](diagram.drawio.png)
 - [**Inventory**](INVENTORY.MD)
 
+## Maintenance
+
+Network maintenance and security audits are done bi-anually by the end of the month, with offsite backups also included in the scope of the audit. This is currently done on the 31st of January and December
+
 ## Contributing
 
 When contributing, please follow the design theme of the "Network" section of shapes in drawio and refrain from adding icons from other sources to maintain overall diagram consistency.
