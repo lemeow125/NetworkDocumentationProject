@@ -1,5 +1,12 @@
 ## Inventory
 
+# Specification of Devices
+
+***All devices follow the same standard specification***
+- **PC** - I9 14900K RTX 4090
+- **L2 and L3 Switch** - Cisco 2960
+- **Access Point** - Linksys EA8300
+
 # Reception/HR | Floor 1
 
 - **PC** - 4
